@@ -32,4 +32,4 @@ Ma recherche doctorale analyse la politisation des enjeux migratoires au Parleme
 
 Sur le plan méthodologique, mes travaux mobilisent l'analyse longitudinale des débats parlementaires, l'analyse quantitative de textes et des méthodes computationnelles appliquées à de grands corpus politiques.
 
-Mes intérêts de recherche comprennent plus largement les **études migratoires**, les **politiques publiques**, la **politique comparée**, la **politisation** et l'analyse des discours politiques.disable all of them.
+Mes intérêts de recherche comprennent plus largement les **études migratoires**, les **politiques publiques**, la **politique comparée**, la **politisation** et l'analyse des discours politiques.
