@@ -3,10 +3,9 @@ layout: about
 title: À propos
 permalink: /
 subtitle: Doctorant en science politique | PhD Candidate in Political Science · Université Laval
-
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpg.png
   image_circular: false
   more_info: >
     <p>Université Laval</p>
